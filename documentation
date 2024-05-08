@@ -23,3 +23,18 @@ git commit -m "meassge"
 
 - update index.html file
 - git status --short
+
+-Note: Short status flags are:
+
+?? - Untracked files
+A - Files added to stage
+M - Modified files
+D - Deleted files
+-git commit -a -m "message"
+- To view the history of commits for a repository
+-> git log
+- git command -help
+- git help --all 
+
+//----------------Git Branch --------------------//
+git branch meassge
