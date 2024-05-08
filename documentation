@@ -1,0 +1,25 @@
+git --version
+git config global user.name"sweta1124"
+git config global user.email"singhsweta0346@gmail.com"
+mkdir myproject
+cd myproject
+git init
+create html file
+command ls
+git status
+
+//----------Git Staging Environement------------------
+git add file name [git add index.html]
+git status 
+
+or
+git add --all [git add -A]
+git status
+
+--- added all files to Staging Environemen with commit ----------
+
+//-----------------------Git Commit -------------------------
+git commit -m "meassge"
+
+- update index.html file
+- git status --short
