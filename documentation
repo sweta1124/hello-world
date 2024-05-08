@@ -38,3 +38,8 @@ D - Deleted files
 
 //----------------Git Branch --------------------//
 git branch meassge
+
+//-----------Merge Branches----------------------//
+git checkout master
+git merge emergency-fix
+git branch -d emergency-fix
